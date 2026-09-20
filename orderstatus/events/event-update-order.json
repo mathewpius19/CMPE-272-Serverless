@@ -1,0 +1,10 @@
+{
+  "Source": "restaurant",
+  "DetailType": "order.updated",
+  "Detail": {
+    "data": {
+      "orderId": "module5-demo-order",
+      "status": "IN-PROCESS"
+    }
+  }
+}
