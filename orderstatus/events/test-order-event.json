@@ -1,0 +1,7 @@
+{
+  "orderId": "module5-demo-order",
+  "restaurantId": 1,
+  "orderItems": [
+    {"id": 1, "name": "Pizza", "quantity": 1}
+  ]
+}
